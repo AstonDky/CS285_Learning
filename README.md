@@ -1,8 +1,8 @@
-# CS285 Project Agent Rules
+# CS285 Learning
 
 ## Environment
 
-- Always use the conda environment named `CS285` for work in this repository.
+- Use the conda environment named `CS285` for work in this repository.
 - Activate it before running any Python command:
   - `conda activate CS285`
 - Create or refresh the full environment from the repository root with:
